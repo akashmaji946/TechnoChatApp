@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96248885169",
+    "project_id": "technochat-akashmaji",
+    "storage_bucket": "technochat-akashmaji.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96248885169:android:9c9e2bd418eb3939629790",
+        "android_client_info": {
+          "package_name": "me.akashmaji.technochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8D2m31hTTTAAAfisB_oFeoaGTgg8ENJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
